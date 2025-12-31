@@ -1,6 +1,6 @@
 ---
 title: 从零开始：基于 Hexo + GitHub + Cloudflare 搭建个人博客全攻略
-date: 2024-05-20 20:00:00
+date: 2025-12-31 20:00:00
 categories: [技术分享]        
 tags: [Hexo, 教程, 个人博客]  
 ---
