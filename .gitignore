@@ -5,3 +5,4 @@ node_modules/
 public/
 .deploy*/
 hexo-deployer-*
+_config.landscape.yml
