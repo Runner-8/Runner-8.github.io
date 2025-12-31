@@ -1,0 +1,18 @@
+navbar:
+  blog_title: Runner8
+  
+index:
+  slogan:
+    enable: true
+    text: 欢 迎 来 到 Runner8 的 Blog!
+    
+footer:
+  content: '
+    <a href="https://github.com/Runner-8" target="_blank" rel="nofollow noopener"><span>GitHub</span></a>
+    <i class="iconfont icon-love"></i>
+    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
+  '
+  
+post:
+  toc:
+    placement: left
