@@ -27,6 +27,6 @@ about:
   name: "Runner8"
   intro: "A student of IoT Engineering!"
   icons:
-    - { class: "iconfont icon-telegram-fill", link: "https://t.me/Runner8_GL", tip: "Telegram" }
+    - { class: "iconfont icon-telegram-fill", link: "https://t.me/knmgb", tip: "Telegram" }
     - { class: "iconfont icon-google-fill", link: "https://google.com" }
     - { class: "iconfont icon-qq-fill", qrcode: "/img/qq.png" }
